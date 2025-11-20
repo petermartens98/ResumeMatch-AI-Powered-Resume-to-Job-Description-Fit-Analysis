@@ -27,8 +27,8 @@ The application uses an advanced multi-agent orchestration framework (CrewAI) co
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/petermartens98/ResumeMatch.git
-cd ResumeMatch
+git clone https://github.com/petermartens98/ResumeMatch-AI-Powered-Resume-to-Job-Description-Fit-Analysis
+cd ResumeMatch-AI-Powered-Resume-to-Job-Description-Fit-Analysis
 ```
 
 ### 2. Create and activate a virtual environment
